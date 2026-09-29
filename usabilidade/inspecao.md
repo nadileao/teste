@@ -53,3 +53,4 @@ if nota>8:
 print("aprovado")
 ```
 
+### Visualização 
